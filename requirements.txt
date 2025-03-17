@@ -3,3 +3,12 @@ azureml-automl-dnn-nlp~=1.59.0
 inference-schema
 azureml-defaults~=1.59.0
 mlflow-skinny
+joblib==1.2.0
+pandas
+numpy
+requests
+plotly
+statsmodels
+pmdarima
+transformers
+nltk
