@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.43.2
 joblib==1.2.0
 pandas
 numpy==1.23.5
@@ -8,3 +8,5 @@ statsmodels
 pmdarima
 transformers
 nltk
+azureml-core==1.59.0
+azureml-automl-dnn-nlp==1.59.0
