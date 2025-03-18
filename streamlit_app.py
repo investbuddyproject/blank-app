@@ -23,7 +23,7 @@ from nltk.corpus import stopwords
 # ------------------------- Read URL Query Parameters -------------------------
 
 # Set page config as the first Streamlit command in your script.
-st.set_page_config(page_title="Stock Sentiment & Price Forecast App", layout="centered")
+st.set_page_config(page_title="Stock Sentiment & Price Forecast", layout="centered")
 
 # Read URL Query Parameters using the new API.
 query_params = st.query_params
